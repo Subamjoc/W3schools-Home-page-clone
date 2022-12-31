@@ -963,10 +963,12 @@ header{
     align-items: flex-start;
     margin-top: 5px;
 }
+.try-btn .btn-modify{
+    margin-top: 20px;
+}
 .btn-modify{
     text-decoration: none;
     display: block;
-    margin-top: 20px;
     padding: 10px 15px;
     border-radius: 5px;
     font-size: 15px;
